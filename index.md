@@ -9,6 +9,7 @@ Favorite Things in CS19300:
 - I am excited to make new friends in CS19300
 - I want to learn how to use Github
 - I want to use what I learn in CS193 in my projects and other classes
+- I hope to take advantage of CS193 designed for first year CS students
 
 ### Markdown
 
