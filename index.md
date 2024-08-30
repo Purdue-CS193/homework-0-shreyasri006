@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Shreyas Sreenath's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,12 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+#Shreyas Sreenath's First CS193 Homework
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I am exicted to learn new things in Terminal
+- I am excited to make new friends in CS19300
+- I want to learn how to use Github
+- I want to use what I learn in CS193 in my projects and other classes
 
 1. Numbered
 2. List
