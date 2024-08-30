@@ -18,13 +18,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 #Shreyas Sreenath's First CS193 Homework
-## Header 2
-### Header 3
+## CS193
+### Purdue CS
 
 - I am exicted to learn new things in Terminal
 - I am excited to make new friends in CS19300
 - I want to learn how to use Github
 - I want to use what I learn in CS193 in my projects and other classes
+- I hope to take advantage of this class designed for first year CS students
 
 1. Numbered
 2. List
